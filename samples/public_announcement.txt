@@ -1,0 +1,17 @@
+TechCorp Annual Open Source Conference Announcement
+
+Date: November 15, 2026
+Location: Convention Center Hall B
+
+We are excited to announce our upcoming annual developer conference focused on
+modern rule-based NLP techniques, privacy-preserving machine learning, and open architectures.
+Attendance is free and open to the public.
+
+Key topics include:
+- Rule-based regex token extraction
+- Context-window boundary analysis
+- Transparent heuristic scoring models
+- Enterprise data governance and compliance automation
+
+No registration fee required. Join the livestream on the official community website.
+All materials will be distributed under the MIT License.
